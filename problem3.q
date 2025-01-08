@@ -2,13 +2,8 @@
 
 maxf:{
  n:2;
- while[x>1;
-  $[0=x mod n;
-   x: x div n;
-   n +: 1;
-   ];
-  ];
-  n
+ while[x>1 ; $[0=x mod n; x:x div n; n+:1]];
+ n
  }
 
 maxf 600851475143
