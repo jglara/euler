@@ -6,6 +6,8 @@
 |                        |                                        | [q](problem1.q)        |
 | Even Fibonacci Numbers | [](https://projecteuler.net/problem=2) | [q](problem2.q)        |
 |                        |                                        | [apl](problem2.dyalog) |
-|                        |                                        |                        |
+| Largest Prime Factor   | [](https://projecteuler.net/problem=3) | [q](problem3.q)        |
+|                        |                                        | [apl](problem3.dyalog) |
+
 
 
