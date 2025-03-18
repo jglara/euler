@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 #include <numeric>
-#include <span>
+#include <mdspan>
 
 int main() {
     // Example 20x20 grid (replace with your actual data)
