@@ -5,6 +5,7 @@ G: 20 20 # 08 02 22 97 38 15 00 40 00 75 04 05 07 78 52 12 50 77 91 08 49 49 99 
 / apply a function to a slide window of size s to x
 sw:{[f;s;x] f each {1_x,y}\[s#0;x] }
 
+/ reorder grid x in diagonals
 diag:{
  nr: count x;
  nc: count[x 0];
