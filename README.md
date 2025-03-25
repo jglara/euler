@@ -15,7 +15,7 @@
 | [Largest Product in a Grid](https://projecteuler.net/problem=11)          | [apl]()                | [q](problem11.q) | [c++ Using std::mdspan](problem11.cc) |
 | [Highly Divisible Triangular Number](https://projecteuler.net/problem=12) |                        | [q](problem12.q) |                                       |
 | [Large sum](https://projecteuler.net/problem=13)                          |                        | [q](problem13.q) |                                       |
-|                                                                           |                        |                  |                                       |
+| [Longest Collatz Sequence](https://projecteuler.net/problem=14)           |                        | [q](problem14.q) |                                       |
 
 
 
